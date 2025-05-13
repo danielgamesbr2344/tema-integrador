@@ -23,7 +23,7 @@ const SocialNetworks = () => {
     },
     {
       name: "Email",
-      username: "@Daniel",
+      username: "Daniel",
       url: "mailto:daniel011040.mdq@gmail.com",
       icon: <Mail className="h-6 w-6" />,
       color: "bg-blue-600",
