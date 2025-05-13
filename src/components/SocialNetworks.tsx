@@ -88,7 +88,7 @@ const SocialNetworks = () => {
             size="lg" 
             className="bg-primary hover:bg-primary-600"
           >
-            <a href="mailto:contato@example.com">
+            <a href="mailto:daniel011040.mdq@gmail.com">
               Enviar Mensagem
               <Mail size={18} className="ml-2" />
             </a>
